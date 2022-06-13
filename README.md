@@ -3,7 +3,12 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1280px-WordPress_logo.svg.png" width="400"></a></p>
 
 This theme was built to be simple and attractive and you can create a personal website with high efficiency
+
+## Preview
+
 ![Home Page](screenshot.png)
+
+## Features
 
 - ✔️ Blog
 - ✔️ Links
@@ -21,14 +26,14 @@ This theme was built to be simple and attractive and you can create a personal w
 
 ## Theme installation
 
-1-Simply install as a normal WordPress theme and activate.
-2-Make a page called Home(The name is your choice) and set the Page template to Home.
-3-Make another page called Blog(The name is your choice) and set the Page template to Blog.
-4-In your admin panel, navigate to Settings > Reading.
-5-Select A static page (select below) and select the pages created.
-6-In your admin panel, navigate to Appearance > Customize.
-7-Put the finishing touches on your website by adding a logo, custom colors and etc.
-8-Active recommended plugin at the top.
+1. Simply install as a normal WordPress theme and activate.
+2. Make a page called Home(The name is your choice) and set the Page template to Home.
+3. Make another page called Blog(The name is your choice) and set the Page template to Blog.
+4. In your admin panel, navigate to Settings > Reading.
+5. Select A static page (select below) and select the pages created.
+6. In your admin panel, navigate to Appearance > Customize.
+7. Put the finishing touches on your website by adding a logo, custom colors and etc.
+8. Active recommended plugin at the top.
 
 ## Theme structure
 
