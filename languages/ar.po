@@ -1,0 +1,132 @@
+# Copyright (C) 2022 IhebHafdallah
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PersonalWebsite 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/"
+"PersonalWebsite\n"
+"POT-Creation-Date: 2022-06-13T11:00:00+02:00\n"
+"PO-Revision-Date: 2022-06-13 11:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n"
+"%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Domain: pw\n"
+
+#. Theme Name of the theme
+msgid "PersonalWebsite"
+msgstr "موقع شخصي"
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://ihebhafdallah.com/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"This theme was built to be simple and attractive and you can create a "
+"personal website with high efficiency"
+msgstr ""
+"تم تصميم هذا المظهر ليكون بسيطًا وجذابًا ويمكنك إنشاء موقع ويب شخصي "
+"بكفاءة عالية"
+
+#. Author of the theme
+msgid "IhebHafdallah"
+msgstr "ايهاب حفظ الله"
+
+#: 404.php:8
+msgid "This page is not available"
+msgstr "هذه الصفحة غير متوفرة"
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: functions.php:88
+msgid "The icon"
+msgstr "الأيقونة"
+
+#: functions.php:132
+msgid "Social Media"
+msgstr "مواقع التواصل الإجتماعي"
+
+#: functions.php:158
+msgid "Social Media Link"
+msgstr "روابط التواصل الاجتماعي"
+
+#: functions.php:177
+msgid "Save Social Media"
+msgstr "حفظ روابط التواصل الاجتماعي"
+
+#: home.php:35
+msgid "Sorry"
+msgstr "آسف"
+
+#: home.php:36
+msgid "There are no posts at the moment"
+msgstr "حالياً لا توجد منشورات"
+
+#: inc/customizer.php:11
+msgid "Website Colors"
+msgstr "ألوان الموقع"
+
+#: inc/customizer.php:25
+msgid "Main Color"
+msgstr "اللون الرئيسي"
+
+#: inc/customizer.php:62
+msgid "Common Questions"
+msgstr "الأسئلة الشائعة"
+
+#: inc/customizer.php:86
+msgid "The first question"
+msgstr "السؤال الأول"
+
+#: inc/customizer.php:87
+msgid "Add the title of the first question"
+msgstr "أضف عنوان السؤال الأول"
+
+#: inc/customizer.php:97
+msgid "First answer"
+msgstr "الإجابة الأولى"
+
+#: inc/customizer.php:98
+msgid "Add the answer to the first question"
+msgstr "أضف إجابة السؤال الأول"
+
+#: inc/customizer.php:118
+msgid "The second question"
+msgstr "السؤال الثاني"
+
+#: inc/customizer.php:119
+msgid "Add the title of the second question"
+msgstr "أضف عنوان السؤال الثاني"
+
+#: inc/customizer.php:129
+msgid "Second answer"
+msgstr "الإجابة الثانية"
+
+#: inc/customizer.php:130
+msgid "Add the answer to the second question"
+msgstr "أضف إجابة السؤال الثاني"
+
+#: inc/customizer.php:150
+msgid "The third question"
+msgstr "السؤال الثالث"
+
+#: inc/customizer.php:151
+msgid "Add the title of the third question"
+msgstr "أضف عنوان السؤال الثالث"
+
+#: inc/customizer.php:161
+msgid "Third answer"
+msgstr "الإجابة الثالثة"
+
+#: inc/customizer.php:162
+msgid "Add the answer to the third question"
+msgstr "أضف إجابة السؤال الثالث"

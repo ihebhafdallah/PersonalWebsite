@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+
+* {
+    font-family: 'Tajawal', sans-serif;
+    text-decoration: none !important;
+}
+
+/* p {
+    display: inline-block;
+} */
+
+.main-box-styles {
+    background: #fff;
+    width: 100%;
+    box-shadow: 0px 0px 10px #ddd;
+}
+
+/* .menu-link.active .menu-div {
+    background: #03a9f4 !important;
+    color: #fff !important;
+} */
+
+.menu-link:not(.active):hover .menu-div {
+    background: #e9f2f6 !important;
+}
+
+.row {
+    margin: 0px;
+}
+
+.main {
+    opacity: 0;
+    min-height: 60vh;
+}
+
+.faq {
+    opacity: 0;
+}
+
+.optimize-fonts * {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.optimize-fonts * {
+    line-height: 1.9;
+}
+
+.optimize-fonts img {
+    cursor: pointer;
+    text-align: center !important;
+    display: inline-block;
+}
+
+.optimize-fonts blockquote,
+.optimize-fonts blockquote * {
+    text-align: center;
+}
+
+/* .optimize-fonts a {
+    color: #2196f3;
+} */
+
+.optimize-fonts a.btn {
+    color: #fff;
+}
+
+
+a {
+    color: #333;
+}
+
+.pagination {
+    display: inline-block;
+    text-align: center;
+}
+.pagination .page-numbers {
+    padding: 0 5px;
+}
+
+.card-header {
+    background-color: transparent !important;
+}
+
+.fancybox__container,
+.fancybox__container * {
+    direction: ltr;
+}
+form.wpcf7-form.init label {
+    color: #212529;
+    width: 100% !important;
+}
+form.wpcf7-form.init input, textarea {
+    width: 100% !important;
+    border: 1px solid #ced4da;
+}
+
+form.wpcf7-form.init input[type=submit]{
+    color: #fff;
+    background-color: #157347;
+    border-color: #146c43;
+}

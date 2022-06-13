@@ -1,0 +1,124 @@
+# Copyright (C) 2022 IhebHafdallah
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PersonalWebsite 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/PersonalWebsite\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-13T11:00:00+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: pw\n"
+
+#. Theme Name of the theme
+msgid "PersonalWebsite"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://ihebhafdallah.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "This theme was built to be simple and attractive and you can create a personal website with high efficiency"
+msgstr ""
+
+#. Author of the theme
+msgid "IhebHafdallah"
+msgstr ""
+
+#: 404.php:8
+msgid "This page is not available"
+msgstr ""
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr ""
+
+#: functions.php:88
+msgid "The icon"
+msgstr ""
+
+#: functions.php:132
+msgid "Social Media"
+msgstr ""
+
+#: functions.php:158
+msgid "Social Media Link"
+msgstr ""
+
+#: functions.php:177
+msgid "Save Social Media"
+msgstr ""
+
+#: home.php:35
+msgid "Sorry"
+msgstr ""
+
+#: home.php:36
+msgid "There are no posts at the moment"
+msgstr ""
+
+#: inc/customizer.php:11
+msgid "Website Colors"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Main Color"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Common Questions"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "The first question"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Add the title of the first question"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "First answer"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Add the answer to the first question"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "The second question"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Add the title of the second question"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Second answer"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Add the answer to the second question"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "The third question"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Add the title of the third question"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Third answer"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Add the answer to the third question"
+msgstr ""
